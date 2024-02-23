@@ -1,0 +1,20 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "designation": "Informatique"
+    },
+    {
+      "id": "2",
+      "designation": "Automobile"
+    },
+    {
+      "id": "3",
+      "designation": "Electronique"
+    },
+    {
+      "id": "4",
+      "designation": "Voyage"
+    }
+  ]
+}
